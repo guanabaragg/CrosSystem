@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrosSystem</string>
+    <string name="login">Login :</string>
+    <string name="senha">Senha :</string>
+    <string name="unidadeNegocio">Und. Negócio :</string>
+    <string name="btnAcessar">Acessar</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Parceiro</string>
+    <string name="tab_text_2">Pedido</string>
+    <string name="tab_text_3">Orçamento</string>
+    <string name="tab_text_4">XXX</string>
+    <string name="tab_text_5">XXX</string>
+    <!-- <string name="action_settings">Configurações</string> -->
+    <string name="action_settings">Sair</string>
+    <string name="section_format">Bem Vido a seçao: %1$d</string>
+</resources>
